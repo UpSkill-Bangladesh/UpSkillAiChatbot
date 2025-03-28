@@ -12,6 +12,18 @@ An AI-powered chatbot built using Python, Flask, and OpenAI API to simulate huma
 - Easy to customize and train on specific datasets.
 - Integration with popular messaging platforms.
 
+## Advanced Features:
+
+- AI & Machine Learning (ML) Capabilities – Improves responses over time by   learning from interactions.
+
+- Voice Interaction – Supports voice commands and responses.
+
+- Multilingual Support – Communicates in multiple languages.
+
+- Personalization – Remembers user preferences and history for a customized experience.
+
+- Emotion Detection – Analyzes sentiment to respond empathetically.
+
 ---
 
 ## 🚀 Getting Started
