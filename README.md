@@ -143,5 +143,11 @@ Developed by [UpSkill Bangladesh](https://github.com/UpSkill-Bangladesh).\
 For questions, feel free to email: `info@upskillbangladesh.net`.
 
 
+Setup Instruction
 
-Hello this change is trying to do from my devFaisal branch
+1. Install Ollama on your device 
+2. Run ollama from terminal (if not responding restart pc)
+3. Run command  "ollama pull deepseel-r1:1.5b"
+4. Run command 'ollama run deepseel-r1:1.5b'
+5. You have to run the ollama in terminal then access from the codebase or you can use it from terminal as well.
+6. make sure to put command '/clear' for clearing up the session from terminal.
