@@ -1,11 +1,11 @@
 Welcome to **Upskill** — your gateway to a future in Software Quality Assurance (SQA)!
 
-🚀 **Why Choose Upskill?**
+**Why Choose Upskill?**
 At Upskill, we don’t just teach — we transform beginners into QA professionals ready for the global tech industry. Our SQA course is crafted by industry experts to meet real-world needs.
 
 ---
 
-📚 **What You’ll Learn in the SQA Course:**
+**What You’ll Learn in the SQA Course:**
 ✅ Fundamentals of Software Testing  
 ✅ Test Planning & Case Design  
 ✅ Manual & Automated Testing Techniques  
@@ -16,7 +16,7 @@ At Upskill, we don’t just teach — we transform beginners into QA professiona
 
 ---
 
-💡 **Who is this for?**
+**Who is this for?**
 - Fresh graduates looking to enter tech  
 - Career switchers from non-IT backgrounds  
 - Professionals seeking QA upskilling  
@@ -24,14 +24,14 @@ No coding background? No problem! We’ll guide you step-by-step.
 
 ---
 
-🌐 **100% Online | Live Instructor-Led Classes | Hands-On Projects**
+**100% Online | Live Instructor-Led Classes | Hands-On Projects**
 
-💼 **Real Projects + Internship Opportunity**
+**Real Projects + Internship Opportunity**
 Work on real-world testing projects. Stand out with experience that hiring managers notice.
 
 ---
 
-🎯 **Why SQA is a Great Career Path?**
+**Why SQA is a Great Career Path?**
 - High demand globally  
 - Great salary growth  
 - Opportunities to work in agile teams  
@@ -39,9 +39,9 @@ Work on real-world testing projects. Stand out with experience that hiring manag
 
 ---
 
-📞 **Contact Upskill Today**
+**Contact Upskill Today**
 - Website: www.upskill.com  
 - WhatsApp: +8801XXXXXXXXX  
 - Email: info@upskill.com
+-  CEO : Rasel Alam
 
-🧠 Learn QA. Get Certified. Launch Your Career — with Upskill.
