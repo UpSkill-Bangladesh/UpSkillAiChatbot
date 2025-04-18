@@ -1,0 +1,9 @@
+ollama
+chromadb
+langchain
+openai
+streamlit
+pytorch
+tensorflow
+scikit-learn
+sentence-transformers
